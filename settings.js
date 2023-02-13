@@ -32,7 +32,7 @@ global.ownernma =  ' ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×�
 //👇 Sticker package name
 global.packname =  '𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 ;' 
 //👇 Sticker Author Name
-global.author =  ' ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ ' 
+global.author =  '𝙲𝚄𝚃𝙴 𝚂𝙴𝙽𝚄 🖤✨' 
 //👇 Kick And Auto Delete Group link Senders
 global.antilink =  'true'
 //👇 Inbox Block Massage 
