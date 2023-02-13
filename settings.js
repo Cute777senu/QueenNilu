@@ -41,7 +41,7 @@ global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 global.OWNER_REACT =  '👸'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
-global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
+global.BUTTON1 = 'https://github.com/Cute777senu/QueenNilu'
 //👇 URL button 2 name
 global.BUTTON2 = '𝚈𝚘𝚞𝚝𝚞𝚋𝚎'
 //👇 Button 1 url 
@@ -81,7 +81,7 @@ global.GOODBYE = process.env.GOODBYE || ``
 //👇 Good bye image
 global.GOODBYE_IMAGE = process.env.GOODBYE_IMAGE || ``
 //👇 Send Welcome ( true or false )
-global.SEND_WELCOME = process.env.SEND_WELCOME || false
+global.SEND_WELCOME = process.env.SEND_WELCOME || true
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
