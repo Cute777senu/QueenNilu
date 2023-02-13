@@ -10,15 +10,15 @@ const chalk = require('chalk')
 
 
 //👇 if you need seen massage use " true "
-global.READ_MASSAGE = 'false'
+global.READ_MASSAGE = 'true'
 //👇 enable desable Girls Voice Reply
 global.VOICE_REPLY =  'true'
 // You Bots Owner Number 
-global.owner = ['94767438882'] 
+global.owner = ['94740612695'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝚀𝚄𝙴𝙴𝙽 𝙽𝙸𝙻𝚄 ²⁰²³'
 //👇 Do you want show time on your bio use "on" want desable use "off"
-global.AUTO_BIO =  'off'
+global.AUTO_BIO =  'on'
 //👇 Inbox massage block PM block
 global.INBOX_BLOCK =  'off'
 //👇 Auto react 
@@ -28,17 +28,17 @@ global.ANTI_BADWORD =  'true'
 //👇 Your Bot Name
 global.botnma =  'ǫᴜᴇᴇɴ ɴɪʟᴜ' 
 //👇 Your name
-global.ownernma =  'JANIYA' 
+global.ownernma =  ' ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ ' 
 //👇 Sticker package name
-global.packname =  '𝗤𝗨𝗘𝗘𝗡 𝐍𝐈𝐋𝐔' 
+global.packname =  '𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 ;' 
 //👇 Sticker Author Name
-global.author =  '_JANIYA_' 
+global.author =  ' ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ ' 
 //👇 Kick And Auto Delete Group link Senders
-global.antilink =  'false'
+global.antilink =  'true'
 //👇 Inbox Block Massage 
 global.INBOX_BLOCK_MSG = 'BLOCK !!!'
 //👇 Owner React Imoji
-global.OWNER_REACT =  '💻'
+global.OWNER_REACT =  '👸'
 global.BAD_KICK_MSG = '*Bad word detect !*'
 //👇 URL.button 1 name
 global.BUTTON1 = '𝙶𝚒𝚝𝚑𝚞𝚋'
@@ -85,7 +85,7 @@ global.SEND_WELCOME = process.env.SEND_WELCOME || false
 //👇 Send block command message (true or false )
 global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Desable PM Block
-global.NO_BLOCK = ["94767438882"]
+global.NO_BLOCK = ["94740612695"]
 
 
 
@@ -97,9 +97,9 @@ global.NO_BLOCK = ["94767438882"]
 global.zenzapi = '01ABEB1E11'
 global.tiktokthub = 'https://telegra.ph/file/d83742c9e0a076364184e.jpg'
 //other
-global.pemilik = ['94767438882'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
-global.premium = ['94767438882'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
-global.pengguna = '_Janiya_' // Your name ඔබේ නම 
+global.pemilik = ['94740612695'] //Change  it , ඔබට කැමති නම් වෙනස් කරන්න
+global.premium = ['94740612695'] //Change it ඔබට කැමතිනම් වෙනස් කරන්න 
+global.pengguna = '_ ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ _' // Your name ඔබේ නම 
 global.sessionName = 'session'
 global.prefix = ['#','!','.'] 
 global.sp = '🔵'
