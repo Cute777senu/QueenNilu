@@ -71,7 +71,53 @@ global.LANG = 'EN'
 //Alive logo
 global.alivelogo = process.env.ALIVE_IMAGE || `https://te.legra.ph/file/3e57249993356ba15109f.jpg`
 //👇 Alive message
-global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || ``
+global.ALIVE_MESSAGE = process.env.ALIVE_MESSAGE || `
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+| ```I am Queen ELISA 👸```
+
+| ```A WhatsApp user bot developed by  ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ 💻```
+
+| ```I'm here to help you with different tasks```
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+| 𝑂𝑤𝑛𝑒𝑟 -  ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ  (+94740612695)🧑‍💻
+
+| 𝐵𝑜𝑡 𝑁𝑎𝑚𝑒 - 𝖰𝗎𝖾𝖾𝗇 Elisa
+
+| 𝐵𝑜𝑡 𝑉𝑒𝑟𝑠𝑖𝑜𝑛 - 3.0.6
+
+| 𝑤𝑒𝑏𝑠𝑖𝑡𝑒 - 
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+| ❀ ᴛʏᴘᴇ *.MENU* ᴛᴏ ɢᴇᴛ ʟɪsᴛ ᴏғ ᴄᴏᴍᴍᴀɴᴅs
+
+| ❀ ᴛʏᴘᴇ *.ALIVE* ᴛᴏ ᴄʜᴇᴄᴋ ɪs ʙᴏᴛ ᴏɴʟɪɴᴇ ᴏʀ ɴᴏᴛ 
+
+| ❀ ᴛʏᴘᴇ *.QAVERSION* ᴛᴏ sᴇᴇ ʙᴏᴛ's ᴄᴜʀʀᴇɴᴛ ᴠᴇʀsɪᴏɴ
+
+| ❀ ᴛʏᴘᴇ *.INFO* ᴛᴏ sᴇᴇ ɢʀᴏᴜᴘ/ᴄʜᴀᴛ ɪɴғᴏʀᴍᴀᴛɪᴏɴ   
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+☘︎𝘜𝘴𝘦 𝘣𝘶𝘵𝘵𝘰𝘯𝘴 𝘣𝘦𝘭𝘰𝘸 𝘵𝘰 𝘢𝘤𝘤𝘦𝘴𝘴 
+
+          ☃︎ᴍᴇɴᴜ
+
+          ☃︎sʏsᴛᴇᴍ
+
+          ☃︎sʏsᴛᴇᴍ
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+```👻💕Thank you for using my bot💃🏻♥️``` - *_ ✆ ᶜᵁ̥ᵀ̯ᴱ̥׀〲⃝ꜱͥᴇɴͣᴜͫ 𓆩×͜×𓆪ꪾ _*
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
+`
 //👇 Welcome Mesaage
 global.WELCOME = process.env.WELCOME || ``
 //👇 welcome image 
